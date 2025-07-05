@@ -1,4 +1,4 @@
-# Edge IoT Face Detection System
+# Edge IoT Face Detection/Recognition System
 
 
 ## Overview
